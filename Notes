@@ -1,1 +1,4 @@
 JavaScript Notes
+
+V8 Engine Working (Flow)
+1️⃣ JavaScript Code → 2️⃣ Parser → AST → 3️⃣ Ignition (Bytecode) → 4️⃣ TurboFan (Optimized Machine Code) → 5️⃣ Execution
